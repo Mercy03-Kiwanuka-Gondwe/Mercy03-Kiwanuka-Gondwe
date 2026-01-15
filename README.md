@@ -1,4 +1,5 @@
-## Hi there 👋
+## Salutations
+### I am Mercy,currently pursuiting MSc Applied Data Science at LUANAR and interested in encountering disruptions with innovations. Currently working on applying Blockchain Technology in Valuechains and Finance.
 
 <!--
 **Mercy03-Kiwanuka-Gondwe/Mercy03-Kiwanuka-Gondwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
